@@ -1,0 +1,2 @@
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv
+https://www.kaggle.com/levyedgar44/income-and-happiness-correction
